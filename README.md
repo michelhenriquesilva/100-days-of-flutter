@@ -30,6 +30,7 @@ Essas foram algumas fontes para pesquisa sobre o tema
 # Conteúdo
 
 ## Day 1 - Material x Cupertino
+No meu primeiro contato, com essas duas libs, confesso que me causou uma certa estranheza, pois como poderia criar aplicações com UI identicas independentes do S.O.? Na minha visão os dois seriam extremamente opinados no que diz respeito ao Design System. Mas estava errado! 😅 É simplesmente fantástico o que se pode fazer com essas libs, pode-se alterar praticamente tudo! Eu gostei mais do Material, mas ambos são excelentes.
 
 
 ## Day 2 - Stateless x Stateful
