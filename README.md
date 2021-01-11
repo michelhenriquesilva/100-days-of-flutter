@@ -14,20 +14,20 @@ Dart é a linguagem de programação multiplataform, lançada na Conferência GO
 Depois de desenvolver várias aplicações mobile com Ionic, e por está um tanto quanto insatisfeito com o resultado e as limitações do framework fui apresentado ao Flutter por alguns amigos, depois de ler por alto a documentação, achei simplesmente incrível o quanto se poderia fazer com ele. A facilidade de usar componentes (widgets) e o quanto tudo "rodava" tão liso e sem ruídos foi o que impulsionou a me aprofundar de vez na tecnologia, entender seus fundamentos e me tornar um dev com conhecimentos sólidos na ferramenta, por isso resolver usar a abordagem "100 days of..." para criar uma rotina diária e focada no aprendizado, obviamente, que 100 dias não são suficientes para consolidar o conhecimento, visto ainda o avanço dessas tecnologias, mas a proposta é desenvolver o hábito saudável do estudo contínuo e também compartilhar os meus erros e acertos. 
 Bora codar 🚀
 
-#Day 1 - Stateless e Statefull Widget
+## Day 1 - Stateless e Statefull Widget
 No Flutter tudo são widget, pense nos widgets como pequenas peças de lego, com comportamentos e propriedades básicas, mas que combinadas podem criar interfaces poderosas
 Existem basicamente dois tipos principais de widgets que todos os demais decendem, são eles: Statless e Statefull. Stateless, como o próprio nome diz é o widget para se criar estruturas sem estados, enquanto que Statefull é utilizado para estruturas com estado.
 
-#Day 2 - Scaffold Widget
+## Day 2 - Scaffold Widget
 
-#Day 3 - Single Render and Multi Render
+## Day 3 - Single Render and Multi Render
 
-#Day 4 - Gesture Detector Widget
+## Day 4 - Gesture Detector Widget
 
-#Day 5 - Form
+## Day 5 - Form
 
-#Day 6 - Navigations (Stack, Drawer, Tabs)
+## Day 6 - Navigations (Stack, Drawer, Tabs)
 
-#Day 7 - Alignments
+## Day 7 - Alignments
 
 
