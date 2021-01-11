@@ -8,7 +8,7 @@
 O Flutter é um framework baseado na linguagem Dart, sua proposta é se consolidar como ferramenta de desenvolvido ágil para aplicativos e também para aplicações web e desktop. Uma das diferenças significativas do Flutter está no fato de acessar diretamente bibliotecas nativas, diferente do React, que utiliza uma brigde (ponte) para fazer o acesso, o que torna o desempenho menor para este.
 
 ## O que é Dart ?
-Dart é a linguagem de programação multiplataform, lançada na Conferência GOTO em 2011 e criada por Lars Bak. É uma linguagem de script orientada à objetos e também liguagem base do Flutter.
+Dart é a linguagem de programação multiplataforma, lançada na Conferência GOTO em 2011 e criada por Lars Bak. É uma linguagem de script orientada à objetos e também liguagem base do Flutter.
 
 ## Por que Flutter?
 Depois de desenvolver várias aplicações mobile com Ionic, e por está um tanto quanto insatisfeito com o resultado e as limitações do framework fui apresentado ao Flutter por alguns amigos, depois de ler por alto a documentação, achei simplesmente incrível o quanto se poderia fazer com ele. A facilidade de usar componentes (widgets) e o quanto tudo "rodava" tão liso e sem ruídos foi o que impulsionou a me aprofundar de vez na tecnologia, entender seus fundamentos e me tornar um dev com conhecimentos sólidos na ferramenta, por isso resolver usar a abordagem "100 days of..." para criar uma rotina diária e focada no aprendizado, obviamente, que 100 dias não são suficientes para consolidar o conhecimento, visto ainda o avanço dessas tecnologias, mas a proposta é desenvolver o hábito saudável do estudo contínuo e também compartilhar os meus erros e acertos. 
@@ -19,14 +19,22 @@ O projeto foi iniciado em 2014, com o codinome "sky", com o intuito de encontrar
 
 Em dezembro de 2018, finalmente foi lançada a versão 1.0 e dentre tantas novidades, o principal destaque foi para o projeto Hummingbird, que futuramente se tornou o Flutter para Web.
 
+# Fonts
+- Essas foram algumas fontes para pesquisa sobre o tema
+- [Curso Básico do Flutterando](https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB)
+- [Canal Oficial Flutter - Widget Weekend](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+- Complementares
+  - https://www.flutterparainiciantes.com.br/
+  - https://sanjaysanju618.github.io/100-Days-Of-Flutter-Widgets/
+
 # Conteúdo
 
 ## Day 1 - Material x Cupertino
 
 
-## Day 2 - Stateless x Statefull
+## Day 2 - Stateless x Stateful
 No Flutter tudo são widget, pense nos widgets como pequenas peças de lego, com comportamentos e propriedades básicas, mas que combinadas podem criar interfaces poderosas
-Existem basicamente dois tipos principais de widgets que todos os demais decendem, são eles: Statless e Statefull. Stateless, como o próprio nome diz é o widget para se criar estruturas sem estados, enquanto que Statefull é utilizado para estruturas com estado.
+Existem basicamente dois tipos principais de widgets que todos os demais decendem, são eles: Statless e Stateful. Stateless, como o próprio nome diz é o widget para se criar estruturas sem estados, enquanto que Stateful é utilizado para estruturas com estado.
 
 ## Day 3 - Scaffold Widget
 
