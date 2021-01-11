@@ -34,8 +34,8 @@ No meu primeiro contato, com essas duas libs, confesso que me causou uma certa e
 
 
 ## Day 2 - Stateless x Stateful
-No Flutter tudo são widget, pense nos widgets como pequenas peças de lego, com comportamentos e propriedades básicas, mas que combinadas podem criar interfaces poderosas
-Existem basicamente dois tipos principais de widgets que todos os demais decendem, são eles: Statless e Stateful. Stateless, como o próprio nome diz é o widget para se criar estruturas sem estados, enquanto que Stateful é utilizado para estruturas com estado.
+No Flutter tudo são widget, pense nos widgets como pequenas peças de lego, com comportamentos e propriedades básicas, mas que combinadas podem criar interfaces poderosas.
+Existem basicamente dois tipos principais de widgets que todos os demais decendem, são eles: Stateless e Stateful. Stateless, como o próprio nome diz é o widget para se criar estruturas sem estados, enquanto que Stateful é utilizado para estruturas com estado.
 
 ## Day 3 - Scaffold Widget
 
