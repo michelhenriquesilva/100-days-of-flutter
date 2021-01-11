@@ -20,9 +20,9 @@ O projeto foi iniciado em 2014, com o codinome "sky", com o intuito de encontrar
 Em dezembro de 2018, finalmente foi lançada a versão 1.0 e dentre tantas novidades, o principal destaque foi para o projeto Hummingbird, que futuramente se tornou o Flutter para Web.
 
 # Fonts
-- Essas foram algumas fontes para pesquisa sobre o tema
+Essas foram algumas fontes para pesquisa sobre o tema
 - [Curso Básico do Flutterando](https://www.youtube.com/watch?v=XeUiJJN0vsE&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB)
-- [Canal Oficial Flutter - Widget Weekend](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+- [Canal Oficial Flutter - Widget of the Week!](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 - Complementares
   - https://www.flutterparainiciantes.com.br/
   - https://sanjaysanju618.github.io/100-Days-Of-Flutter-Widgets/
